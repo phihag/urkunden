@@ -1,0 +1,17 @@
+set up lint
+set up make
+set up travis
+set up gitignore
+cp svg
+
+set up basic CSS, HTML, JS
+
+load svg from server
+load svg from client (store client-side)
+
+With numbers (1-3)
+without numbers
+just one cert
+
+set up a README
+offline web app (modern style, PWA)
